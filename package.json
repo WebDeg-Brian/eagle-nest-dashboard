@@ -1,7 +1,7 @@
 {
   "name": "eagle-nest-dashboard",
   "version": "1.0.0",
-  "description": "Eagle Nest Dashboard ",
+  "description": "A React dashboard for Eagle Nest Learning System",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
